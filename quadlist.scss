@@ -38,11 +38,19 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
     list-style: none;
   }
 
-  .label {
+  .col1 {
+    color: $label-color;
+  }
+ 
+  .col2 {
     color: $label-color;
   }
 
-  .value {
+  .col3 {
+    color: $label-color;
+  }
+
+  .col4 {
     float: right;
     margin-left: 12px;
     font-weight: 600;
