@@ -42,7 +42,7 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
     float: left;
     margin-right: 2px;
     font-weight: 600;  
-    color: $label-color;
+    color: $value-color;
   }
  
   .col2 {
@@ -58,8 +58,7 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
   }
 
   .col4 {
-    float: right;
-    color: $value-color;
+    color: $label-color;
   }
 
   .updated-at {
