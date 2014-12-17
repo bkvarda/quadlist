@@ -39,21 +39,26 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
   }
 
   .col1 {
+    float: left;
+    margin-right: 2px;
+    font-weight: 600;  
     color: $label-color;
   }
  
   .col2 {
+    float: left;
+    margin-right: 2px;
     color: $label-color;
   }
 
   .col3 {
+    float: left;
+    margin-right: 2px;
     color: $label-color;
   }
 
   .col4 {
     float: right;
-    margin-left: 12px;
-    font-weight: 600;
     color: $value-color;
   }
 
